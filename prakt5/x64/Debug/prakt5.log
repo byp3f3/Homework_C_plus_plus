@@ -1,0 +1,4 @@
+﻿  prakt5.cpp
+C:\Users\HP\Desktop\work\c++\prakt5\prakt5\prakt5.cpp(36): warning C4715: BankAccount::withdraw: значение возвращается не при всех путях выполнения
+C:\Users\HP\Desktop\work\c++\prakt5\prakt5\prakt5.cpp(28): warning C4715: BankAccount::deposit: значение возвращается не при всех путях выполнения
+  prakt5.vcxproj -> C:\Users\HP\Desktop\work\c++\prakt5\x64\Debug\prakt5.exe
